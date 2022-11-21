@@ -1,0 +1,7 @@
+@use '../abstracts/' as *;
+
+h1 {
+    color: clr(primary, 400);
+    font-size: size(32);
+    margin-block: size(32);
+}
